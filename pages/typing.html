@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Text Input Example</title>
+</head>
+<body>
+    <h1>Enter Text</h1>
+
+    <input type="text" id="textBox" placeholder="Type here...">
+
+    <p>You typed: <span id="output"></span></p>
+
+    <script>
+        const textBox = document.getElementById("textBox");
+        const output = document.getElementById("output");
+
+        textBox.addEventListener("input", () => {
+            output.textContent = textBox.value;
+        });
+    </script>
+</body>
+</html>Don't use
