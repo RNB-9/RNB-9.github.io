@@ -14,7 +14,7 @@ blah blah blah
 yada yada yada
 
 other pages: 
-[Typing](/Typing)
+[Typing](/Typing), 
 [The other page](/Page-2) 
 
 
