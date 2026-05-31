@@ -1,23 +1,22 @@
-# RNB-9.github.io
+# This is an ✨Amazing✨ Webiste 
 
-~~~
-testing testing
-~~~
-```java
-1 2 3
-```
+Something something blah blah blah
 
-$\LaTeX$
-==would be cool if this works==
+I made this cool thing
 
-this as well [^1]
+> This was definitely just my idea
+> and nobody can say otherwise
+> because my ideas are amazing
+>           - Sun Tsu the war of art [^1]
 
-> blah blah blah who are you? [^2]
->
-> I know who I am
+blah blah blah
 
-H~2~O 
-H^2^O 
+yada yada yada
 
-[^1]: This is what I was referencing
-[^2]: This as well
+
+
+
+
+
+
+[^1]: he never actually said that, as he only spoke Classical Chinese
